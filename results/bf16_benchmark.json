@@ -1,0 +1,6 @@
+{
+  "variant": "bf16",
+  "generation_tps": 17.5,
+  "prompt_tps": 835.5,
+  "trials": 10
+}

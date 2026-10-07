@@ -1,0 +1,11 @@
+id,repo,expected,predicted,correct,seconds
+1430,opencv/opencv,feature,feature,True,0.217
+1061,bitcoin/bitcoin,question,bug,False,0.591
+70,facebook/react,bug,bug,True,0.309
+678,microsoft/vscode,bug,bug,True,0.374
+1240,opencv/opencv,bug,bug,True,0.271
+304,tensorflow/tensorflow,question,bug,False,0.273
+793,microsoft/vscode,feature,feature,True,0.239
+430,tensorflow/tensorflow,feature,feature,True,0.335
+1208,opencv/opencv,bug,bug,True,0.334
+1066,bitcoin/bitcoin,question,question,True,0.302

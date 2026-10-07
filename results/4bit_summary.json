@@ -1,0 +1,10 @@
+{
+  "variant": "4bit",
+  "cases": 300,
+  "accuracy": 0.67,
+  "seconds_per_case": 0.314,
+  "peak_memory_gb": 2.51,
+  "accuracy_bug": 0.92,
+  "accuracy_feature": 0.81,
+  "accuracy_question": 0.28
+}

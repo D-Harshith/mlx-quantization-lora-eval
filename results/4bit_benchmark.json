@@ -1,0 +1,6 @@
+{
+  "variant": "4bit",
+  "generation_tps": 61.7,
+  "prompt_tps": 1438.0,
+  "trials": 10
+}

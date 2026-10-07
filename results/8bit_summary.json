@@ -1,0 +1,10 @@
+{
+  "variant": "8bit",
+  "cases": 300,
+  "accuracy": 0.663,
+  "seconds_per_case": 0.418,
+  "peak_memory_gb": 3.96,
+  "accuracy_bug": 0.83,
+  "accuracy_feature": 0.87,
+  "accuracy_question": 0.29
+}

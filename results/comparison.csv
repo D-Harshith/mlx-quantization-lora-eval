@@ -1,0 +1,5 @@
+variant,cases,accuracy,seconds_per_case,peak_memory_gb,accuracy_bug,accuracy_feature,accuracy_question,margin,generation_tps,prompt_tps
+4bit_lora,300,0.817,0.422,2.93,0.8,0.84,0.81,0.044,,
+4bit,300,0.67,0.314,2.51,0.92,0.81,0.28,0.053,61.7,1438.0
+8bit,300,0.663,0.418,3.96,0.83,0.87,0.29,0.053,34.7,1258.3
+bf16,300,0.663,0.513,6.9,0.83,0.86,0.3,0.053,17.5,835.5

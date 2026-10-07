@@ -1,0 +1,13 @@
+# private or local only
+CLAUDE.md
+formula.txt
+.venv/
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# too large for GitHub (1.8 GB file, the limit is 100 MB); rebuild with mlx_lm.fuse
+models/
+
+# LoRA weights: publish the final adapter (28 MB) with its LICENSE and NOTICE, skip the 13 checkpoints
+adapters/4bit_lora/0*_adapters.safetensors
