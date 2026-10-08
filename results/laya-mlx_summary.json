@@ -1,0 +1,11 @@
+{
+  "variant": "laya-mlx",
+  "cases": 300,
+  "accuracy": 0.58,
+  "seconds_per_case": 0.1999,
+  "peak_memory_gb": 1.39,
+  "truncated_cases": 86,
+  "accuracy_bug": 0.89,
+  "accuracy_feature": 0.74,
+  "accuracy_question": 0.11
+}
